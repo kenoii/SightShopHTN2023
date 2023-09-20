@@ -1,5 +1,6 @@
 # SightShopHTN2023
-(camera recognition and AdHawk Mindlink controls for our program, SightShop)
+camera recognition and AdHawk Mindlink controls for our project, SightShop
+
 by Andy, Derek, Derrick, Owen
 
 # Inspiration
@@ -20,5 +21,5 @@ We're proud of being able to produce a solution using new hardware presented at 
 # What we learned
 We learnt to manipulate Flask and object identification models.
 
-What's next for SightShop
+# What's next for SightShop
 A next step for SightShop is to utilize pupil movement software within the Adhawk Mindlink glasses for a more accurate reading of user's intent for greater accuracy and convenience.
